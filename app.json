@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "app_tasck",
-    "slug": "app_tasck",
+    "name": "App_Consulta_Preco",
+    "slug": "App_Consulta_Preco",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",

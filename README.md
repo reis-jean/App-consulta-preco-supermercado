@@ -1,6 +1,6 @@
 # App-consulta-preco-supermercado
 
-Esse foi o projeto que desenvolvi para meu TCC que permite ao usuario consultar o menor preço no supermercado mais proximo em relação ao sua localização. 
+Esse foi o projeto que desenvolvi para meu TCC que permite ao usuario consultar o menor preço no supermercado mais proximo em relação á sua localização. 
 
 Na aplicação é possivel tambem o cadastro do supermercado, login, além do cadastro de produtos por parte do mesmo.
 Existe alguns recursos como leitor de codigo de barra que é usado para cadastrar os produtos, APi do Google para cadastrar o endereço do mercado e calcular a distancia do usuario, entre outros. 
